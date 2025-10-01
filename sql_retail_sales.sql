@@ -1,3 +1,4 @@
+
 CREATE DATABASE retail_sales;
 alter table `sql - retail sales analysis_utf`
 rename to retail_table;
